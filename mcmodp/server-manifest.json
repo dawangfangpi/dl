@@ -1,0 +1,75 @@
+{
+  "name": "monday模组",
+  "author": "jdnjk",
+  "version": "1.2",
+  "description": "",
+  "fileApi": "https://dl.cdn.monday-ovo.top/mcmodp",
+  "files": [
+    {
+      "path": "hmclversion.cfg",
+      "hash": "ac167a2606f5fc37240b114be9f32e2ace37c503"
+    },
+    {
+      "path": "mods/cloth-config-9.0.94-fabric.jar",
+      "hash": "9b218b97186b75e5701b343dddfea1081d8ba48d"
+    },
+    {
+      "path": "mods/fabric-api-0.75.1+1.19.3.jar",
+      "hash": "f38287aa33a6eb509cfc8658e721110f90fc440f"
+    },
+    {
+      "path": "mods/zmusic-fabric-1.19.3-3.1.0.jar",
+      "hash": "85c59049b0d093c45fc7717311c7fe5ef247a690"
+    },
+    {
+      "path": "mods/[JEI物品管理器] jei-1.19.3-fabric-12.3.0.18.jar",
+      "hash": "83bbba43d79743d9781f5bfe37840632610e0dce"
+    },
+    {
+      "path": "mods/[旅行地图] journeymap-1.19.3-5.9.3-fabric.jar",
+      "hash": "67286badb5fd3a06dafbbe484e0ac0dac0690939"
+    },
+    {
+      "path": "mods/[模组菜单] modmenu-5.0.2.jar",
+      "hash": "bcc0199aeaa40fabeda867d629a9fca7300056ad"
+    },
+    {
+      "path": "mods/[聊天头像] chat_heads-0.10.5-fabric-1.19.3.jar",
+      "hash": "e19ede803e5b047e23c4ae618557613a388e54cf"
+    },
+    {
+      "path": "mods/[钠] sodium-fabric-mc1.19.3-0.4.9+build.23.jar",
+      "hash": "14abd0a08804dc67ec6bc8a83d5062f806db6fc9"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "faeb9ec0bde5ad085d7be31c8d1f55b07bec02fd"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.2.01.zip",
+      "hash": "ddd94583683e3095ddc1db37f00752d9d92ec173"
+    },
+    {
+      "path": "shaderpacks/Chocapic13 V6 Lite（低）.zip",
+      "hash": "43f6f0ddb077e0560378f9e9bdae153f5271e6d4"
+    },
+    {
+      "path": "shaderpacks/Chocapic13 V7.1 Lite（最低）.zip",
+      "hash": "fccae47d834566d242671f9a3ce76fb86cb43ee0"
+    },
+    {
+      "path": "shaderpacks/SEUS-v10.1-动态模糊 （偏低）.zip",
+      "hash": "10c0f625116bde8fd09b2032c707f7e4df2fa516"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.19.3"
+    },
+    {
+      "id": "fabric",
+      "version": "0.14.21"
+    }
+  ]
+}
