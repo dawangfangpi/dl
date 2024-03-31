@@ -1,354 +1,10 @@
 {
   "name": "create1.20.1",
   "author": "jdnjk@qq.com",
-  "version": "2.0",
-  "description": "注意事项请见群",
+  "version": "2.1",
+  "description": "",
   "fileApi": "http://dl.cdn.monday-ovo.top/create",
   "files": [
-    {
-      "path": "config/apotheosis/adventure.cfg",
-      "hash": "0f9aa566a25349e80697f62424504e889c5e665d"
-    },
-    {
-      "path": "config/apotheosis/apotheosis.cfg",
-      "hash": "9403c2db0310fd36f83f7deb5d66b32559c2ae15"
-    },
-    {
-      "path": "config/apotheosis/ench.cfg",
-      "hash": "20df5d6c79905c6212c6012dbeab01246568ac41"
-    },
-    {
-      "path": "config/apotheosis/enchantments.cfg",
-      "hash": "b6f6406f54d9fe580e7f74ccc5e1bc79c9bb962a"
-    },
-    {
-      "path": "config/apotheosis/garden.cfg",
-      "hash": "401b141eb39d8f122a5489b5c1355a07f6024ce8"
-    },
-    {
-      "path": "config/apotheosis/names.cfg",
-      "hash": "80bfc8981cb8e7d2e8a46308f159b13a7f7f1fad"
-    },
-    {
-      "path": "config/apotheosis/potion.cfg",
-      "hash": "e4bacf7b2b46bd324f3432f2ce1a442eb3e344f0"
-    },
-    {
-      "path": "config/apotheosis/spawner.cfg",
-      "hash": "f46847e1011d1eef45753f13c36eccbbc79bae21"
-    },
-    {
-      "path": "config/apotheosis/village.cfg",
-      "hash": "3c44b7afd2c0193e0567128da2565cd60eccbaa4"
-    },
-    {
-      "path": "config/attributeslib.cfg",
-      "hash": "175971f8773b8a66266d7e10b1c3aeb50a5cf160"
-    },
-    {
-      "path": "config/collective.json5",
-      "hash": "840adf33852578f239021004dd2412c8cf6c3f58"
-    },
-    {
-      "path": "config/create-client.toml",
-      "hash": "c6f642af1276ec0d504145ad4b7225c6145a7e9e"
-    },
-    {
-      "path": "config/create-common.toml",
-      "hash": "41cda6916fe6ee82d14411d094f884862ef2b3de"
-    },
-    {
-      "path": "config/createaddition-common.toml",
-      "hash": "05f74e0413c064c0a8e9a0a610d0601554a126cc"
-    },
-    {
-      "path": "config/createbigcannons-client.toml",
-      "hash": "8db73d7f639328db96b8d8ad25db2109568a6f56"
-    },
-    {
-      "path": "config/createdieselgenerators-client.toml",
-      "hash": "d15713aa9fdb36f5c98b281ebbc05292b40f62d0"
-    },
-    {
-      "path": "config/createendertransmission-server.toml",
-      "hash": "7cd84866096d0416c46cbe77df3db028648534ef"
-    },
-    {
-      "path": "config/createoreexcavation-common.toml",
-      "hash": "34bbeb20bd0b3c2fff47b5d8a63d42ece37ee3d5"
-    },
-    {
-      "path": "config/createsifter-client.toml",
-      "hash": "7ac6bb605e10eee9a309d16d17ac148fee47bcab"
-    },
-    {
-      "path": "config/createsifter-common.toml",
-      "hash": "851fe9adf641be197163273c314d59f0b1558d33"
-    },
-    {
-      "path": "config/create_central_kitchen-common-1.toml.bak",
-      "hash": "d596c341b91f9777c6b17b050c57a037cffd9275"
-    },
-    {
-      "path": "config/create_central_kitchen-common-2.toml.bak",
-      "hash": "d596c341b91f9777c6b17b050c57a037cffd9275"
-    },
-    {
-      "path": "config/create_central_kitchen-common-3.toml.bak",
-      "hash": "d596c341b91f9777c6b17b050c57a037cffd9275"
-    },
-    {
-      "path": "config/create_central_kitchen-common-4.toml.bak",
-      "hash": "d596c341b91f9777c6b17b050c57a037cffd9275"
-    },
-    {
-      "path": "config/create_central_kitchen-common-5.toml.bak",
-      "hash": "d596c341b91f9777c6b17b050c57a037cffd9275"
-    },
-    {
-      "path": "config/create_central_kitchen-common.toml",
-      "hash": "d596c341b91f9777c6b17b050c57a037cffd9275"
-    },
-    {
-      "path": "config/create_jetpack-client.toml",
-      "hash": "10cd517fbfe0036c319fa286c34e0b8144f070c2"
-    },
-    {
-      "path": "config/create_jetpack-common.toml",
-      "hash": "7c1cfcd4f46c0a6d5a4ee79efcbd7856b30160e2"
-    },
-    {
-      "path": "config/curios-client.toml",
-      "hash": "ee5607552a851c19ef1d53c6e4bac5c307d10524"
-    },
-    {
-      "path": "config/embeddium-fingerprint.json",
-      "hash": "fcbb11f8185defc43322784eabf66865a1d98839"
-    },
-    {
-      "path": "config/embeddium-mixins.properties",
-      "hash": "a729ee50d18cf2204ff9fc33bc21641d55185c88"
-    },
-    {
-      "path": "config/embeddium-options.json",
-      "hash": "099742447659aad48b8ef95ea454f1531b44dab5"
-    },
-    {
-      "path": "config/flywheel-client.toml",
-      "hash": "2f2ab61806dd8d920b5154ba8d8094f2c0f6710d"
-    },
-    {
-      "path": "config/fml.toml",
-      "hash": "480c691ae4a0b08d28a1a59b05544e8271038260"
-    },
-    {
-      "path": "config/forge-client.toml",
-      "hash": "5dcc032ce1e3d9e4a9552880f8de2e2c71fcdb1e"
-    },
-    {
-      "path": "config/fullbrightnesstoggle/laststate.txt",
-      "hash": "e7909cf33983894334f3213bcf3204a84c00b236"
-    },
-    {
-      "path": "config/jade/hide-blocks.json",
-      "hash": "4687cf45914c45a4a67441d1f440d7d89d0f6281"
-    },
-    {
-      "path": "config/jade/hide-entities.json",
-      "hash": "9984b019823e8eaf19a40d0b7ee92590cb53b8e9"
-    },
-    {
-      "path": "config/jade/jade.json",
-      "hash": "aa0b891c9587ac6203df01278d2e8bd085be93a1"
-    },
-    {
-      "path": "config/jade/plugins.json",
-      "hash": "ecf85bbb8f45290e2f359078cf215c69ca0f0ea5"
-    },
-    {
-      "path": "config/jade/sort-order.json",
-      "hash": "5d290bf4dc0e80f4aea5b05c79adaa080fbbbf7b"
-    },
-    {
-      "path": "config/jei/blacklist.cfg",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-    },
-    {
-      "path": "config/jei/ingredient-list-mod-sort-order.ini",
-      "hash": "c85844cb0f7a2d913d21456a970d6b092efb74df"
-    },
-    {
-      "path": "config/jei/ingredient-list-type-sort-order.ini",
-      "hash": "3fbc4e4c59223660393f3eece3b6e240b96dff0b"
-    },
-    {
-      "path": "config/jei/jei-client.ini",
-      "hash": "67ff1ce2ef09db0664d3e40d6f324ce1ac84dbdf"
-    },
-    {
-      "path": "config/jei/jei-colors.ini",
-      "hash": "c973cab829ccdc4dd2d0f56ebd27b10e33678ad4"
-    },
-    {
-      "path": "config/jei/jei-debug.ini",
-      "hash": "dd6106bd2ac4a3d2b02793ee58e46fb5786f758c"
-    },
-    {
-      "path": "config/jei/jei-mod-id-format.ini",
-      "hash": "deff4edb19c6e15cc79c24d043e7cadc21adbfe7"
-    },
-    {
-      "path": "config/jei/recipe-category-sort-order.ini",
-      "hash": "3b1b9ac8371ba69c7177108afee3d35d957d1a7c"
-    },
-    {
-      "path": "config/lootr-client.toml",
-      "hash": "9988374718be84bfb82b2164c45350039d6dddc4"
-    },
-    {
-      "path": "config/lootr-common-1.toml.bak",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-    },
-    {
-      "path": "config/lootr-common-2.toml.bak",
-      "hash": "273025fc0198cf95bb9a330396fd38f2ced6e190"
-    },
-    {
-      "path": "config/lootr-common-3.toml.bak",
-      "hash": "e28a8c15d5ed7c24edd90622ffa2178cc137d573"
-    },
-    {
-      "path": "config/lootr-common-4.toml.bak",
-      "hash": "d4d08772a4d252b9025ef63be9720f26699138c0"
-    },
-    {
-      "path": "config/lootr-common-5.toml.bak",
-      "hash": "273025fc0198cf95bb9a330396fd38f2ced6e190"
-    },
-    {
-      "path": "config/lootr-common.toml",
-      "hash": "273025fc0198cf95bb9a330396fd38f2ced6e190"
-    },
-    {
-      "path": "config/oculus.properties",
-      "hash": "64144326c776cb7872dd064d0c4ba8b25c5f3a12"
-    },
-    {
-      "path": "config/patchouli-client.toml",
-      "hash": "e4987ed22204ca092b2d62a5fa1a065fe88fd9b2"
-    },
-    {
-      "path": "config/pneumaticcraft/ArmorFeatureStatus.cfg",
-      "hash": "bd583aabb16a9dae322aa7f6c93b413061ce4855"
-    },
-    {
-      "path": "config/pneumaticcraft/MicromissileDefaults.cfg",
-      "hash": "37d1101b143fe98bdde493fc721f9f72d7ccc07a"
-    },
-    {
-      "path": "config/pneumaticcraft/PneumaticArmorHUDLayout.cfg",
-      "hash": "37d2f7ada23846a105f01a74ac966babf32269f7"
-    },
-    {
-      "path": "config/pneumaticcraft/ProgrammingPuzzleBlacklist.cfg",
-      "hash": "ce5e1b8930b83dcbf68829753ce5a108fc6a8a38"
-    },
-    {
-      "path": "config/pneumaticcraft/thirdparty.cfg",
-      "hash": "27a7c4271c63214c7b984f49cfa2995c56b67002"
-    },
-    {
-      "path": "config/pneumaticcraft-client.toml",
-      "hash": "a4ce134bff242586caa207cda7dadca79dceef7a"
-    },
-    {
-      "path": "config/pneumaticcraft-common.toml",
-      "hash": "035ffe0fdce279b16fcd52d31914ed576be22806"
-    },
-    {
-      "path": "config/powah.json5",
-      "hash": "f9c31f11d9240bb78fea25491b9fc9baa7236dd4"
-    },
-    {
-      "path": "config/railways-client.toml",
-      "hash": "cf3f7e56ee64e560639a5404766612af12cfa091"
-    },
-    {
-      "path": "config/railways-common.toml",
-      "hash": "84c59bd1047708357987030f4b89caf0bb5dc030"
-    },
-    {
-      "path": "config/sidebar_buttons.json",
-      "hash": "69ffdbf76a1bcfecc73dfed70bc364f6eb92f724"
-    },
-    {
-      "path": "config/sophisticatedbackpacks-common.toml",
-      "hash": "300cb0348cbb41fb48bab6849802495881fc9b93"
-    },
-    {
-      "path": "config/sophisticatedcore-client.toml",
-      "hash": "f6f59485a1bf80c76da0a53d3be2bd9c4ee79e61"
-    },
-    {
-      "path": "config/sophisticatedcore-common-1.toml.bak",
-      "hash": "b4f7dba6394891547751d1a94fc6f77550f88baf"
-    },
-    {
-      "path": "config/sophisticatedcore-common.toml",
-      "hash": "1e0dc9226612cab73f2d7142ee9be10043f8bac8"
-    },
-    {
-      "path": "config/storagedrawers-client-1.toml.bak",
-      "hash": "b41b7227e4cfde663209cd8c3a4bc42ee6cad2de"
-    },
-    {
-      "path": "config/storagedrawers-client.toml",
-      "hash": "b41b7227e4cfde663209cd8c3a4bc42ee6cad2de"
-    },
-    {
-      "path": "config/storagedrawers-common.toml",
-      "hash": "9e547a25ae98c0c64f16d5197117c2176ea8d370"
-    },
-    {
-      "path": "config/toms_storage-common.toml",
-      "hash": "8211f23bc1d8e69601d19aec78df27cbad23418e"
-    },
-    {
-      "path": "config/voicechat/translations.properties",
-      "hash": "ccd3de3bb39c3307cc67e2cc2e4c9f76cd097935"
-    },
-    {
-      "path": "config/voicechat/username-cache.json",
-      "hash": "44f86c5a5f70c143633103d667d4e70bda4af0e6"
-    },
-    {
-      "path": "config/voicechat/voicechat-client.properties",
-      "hash": "709818912a94cf7cb81752c1f52efd0d4929a414"
-    },
-    {
-      "path": "config/voicechat/voicechat-server.properties",
-      "hash": "5436895e8edab6f855bd6f794f99370c0c03f218"
-    },
-    {
-      "path": "config/voicechat/voicechat-volumes.properties",
-      "hash": "4eaca99c316dc0e047aa47897d73689054c1474d"
-    },
-    {
-      "path": "config/voicechat-client.toml",
-      "hash": "6a87c562a167f9b5faf95bf1f446422f887ff96a"
-    },
-    {
-      "path": "defaultconfigs/ftbchunks/client-config.snbt",
-      "hash": "3fd4a46d41732edd1bae7192b8265a52c1be85ef"
-    },
-    {
-      "path": "defaultconfigs/ftbultimine/ftbultimine-client.snbt",
-      "hash": "a941713d1967797f43a95bc314d39fd2c7eabc86"
-    },
-    {
-      "path": "log4j2.xml",
-      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
-    },
     {
       "path": "mods/Apotheosis-1.20.1-7.3.3.jar",
       "hash": "5703abfb321023aa379d63d08dae3f0dcc2cf714"
@@ -382,16 +38,8 @@
       "hash": "d59e52e255f6c0c0c36be84ce33b1d54d9abeb96"
     },
     {
-      "path": "mods/create-stuff-additions1.20.1_v2.0.4a (2).jar",
-      "hash": "d59e52e255f6c0c0c36be84ce33b1d54d9abeb96"
-    },
-    {
       "path": "mods/createaddition-1.20.1-1.2.2.jar",
       "hash": "0869d45f0d94ab45f1f7b9987990890117407dce"
-    },
-    {
-      "path": "mods/createbigcannons-forge-1.20.1-0.5.3.b.jar",
-      "hash": "8e89e0d04b7fa7e151fdb26b9e7945464685f745"
     },
     {
       "path": "mods/createdieselgenerators-1.20.1-1.2h.jar",
@@ -430,12 +78,16 @@
       "hash": "9f84c5e9760e08a7b9cf388d6c03f2a29e90ba32"
     },
     {
-      "path": "mods/embeddium-0.3.9+mc1.20.1.jar",
+      "path": "mods/embeddium-0.3.9+mc1.20.1.jar.disabled",
       "hash": "4e2335a9aaa3c0d1a11f728cdebdcdd197e8a04d"
     },
     {
-      "path": "mods/embeddium-fabric-0.3.9+mc1.20.1.jar",
-      "hash": "96262057e0fd7f639a4c8e3528daa2ad6a37b88c"
+      "path": "mods/ends_delight-1.20.1-1.0.1.jar",
+      "hash": "f6a9c2215a0ed1188526bbf15c55bd1709d8f7d8"
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.2.4.jar",
+      "hash": "71daa55fd88b6f181c51ec6892600415df591f64"
     },
     {
       "path": "mods/ftb-chunks-forge-2001.2.5.jar",
@@ -494,11 +146,15 @@
       "hash": "0aaceae6c0343501a2f1b17687ef47610b11ff46"
     },
     {
-      "path": "mods/oculus-flywheel-compat-1.20.1-0.2.4.jar",
+      "path": "mods/nethersdelight-1.20.1-4.0.jar",
+      "hash": "c6da9c681bf2ec1d7b3e96db739c2b1113f6b838"
+    },
+    {
+      "path": "mods/oculus-flywheel-compat-1.20.1-0.2.4.jar.disabled",
       "hash": "5b4a3af87017bf32e043a59ed962ba97a5a39218"
     },
     {
-      "path": "mods/oculus-mc1.20.1-1.6.15a.jar",
+      "path": "mods/oculus-mc1.20.1-1.6.15a.jar.disabled",
       "hash": "478a222cd6390353ba080b07fcac2b6301fbe3a2"
     },
     {
@@ -546,48 +202,8 @@
       "hash": "bcdbdb2b82db28adef4b03e7893abb444da45d5c"
     },
     {
-      "path": "natives-windows-x86_64/glfw.dll",
-      "hash": "3c0e8e7fcbc854a87219fbbfd181c2cc76018144"
-    },
-    {
-      "path": "natives-windows-x86_64/jemalloc.dll",
-      "hash": "e25eae45e9cb2f17380279d3edc89be5520bebdd"
-    },
-    {
-      "path": "natives-windows-x86_64/jna6633200478119460231.dll",
-      "hash": "526e95d2afde5ef07dd0aca671261dfbc7fcfa17"
-    },
-    {
-      "path": "natives-windows-x86_64/jna6633200478119460231.dll.x",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl.dll",
-      "hash": "0c9b501520c20055ba77bbd8cae4895fcb1cfa40"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl_opengl.dll",
-      "hash": "8f1bbc60d651e010a6e1734547aec9e9786ffdbe"
-    },
-    {
-      "path": "natives-windows-x86_64/lwjgl_stb.dll",
-      "hash": "5d7a779e99f85af814b7a9dd6443b11b5a678bd9"
-    },
-    {
-      "path": "natives-windows-x86_64/OpenAL.dll",
-      "hash": "900ac280d11730ec4b774073ef748cc81fbbdf14"
-    },
-    {
-      "path": "options.txt",
-      "hash": "92185d8575106f0cb6760180733d4818c120a251"
-    },
-    {
-      "path": "patchouli_data.json",
-      "hash": "eef80c272d297826a07dbe8fba718303be199633"
-    },
-    {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
-      "hash": "7c86f42ebcc069d9b72e5ef0ff4d0e1506a12a86"
+      "hash": "0b76b081218570557e7b30ad0485cd7ef6da7be7"
     },
     {
       "path": "resourcepacks/Quark Programmer Art.zip",
