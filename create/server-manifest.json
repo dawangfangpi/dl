@@ -1,9 +1,9 @@
 {
-  "name": "create1.20.1",
+  "name": "机械动力",
   "author": "jdnjk@qq.com",
-  "version": "2.1",
+  "version": "2.2",
   "description": "",
-  "fileApi": "http://dl.cdn.monday-ovo.top/create",
+  "fileApi": "https://dl.cdn.monday-ovo.top/create",
   "files": [
     {
       "path": "mods/Apotheosis-1.20.1-7.3.3.jar",
@@ -22,12 +22,24 @@
       "hash": "8a4b7f0d6e569370a73402eeda57418f456968d8"
     },
     {
+      "path": "mods/cc-tweaked-1.20.1-forge-1.110.1.jar",
+      "hash": "86145c33220d63ec2f2551281a57341e5d02314f"
+    },
+    {
       "path": "mods/cloth-config-11.1.118-forge (1).jar",
       "hash": "c46ca3fba95691873a765f4e79750c615f33e446"
     },
     {
       "path": "mods/collective-1.20.1-7.40.jar",
       "hash": "19e0c11ee46e360daf5e9b2f3c8ea11a046e3b73"
+    },
+    {
+      "path": "mods/ContingameIME-1.0.7-1.20.1-forge.jar",
+      "hash": "d4b780795cc111b11c84bbf4cfb05a72f36904e1"
+    },
+    {
+      "path": "mods/controllable-forge-1.20.1-0.20.3.jar",
+      "hash": "6d320d387cef4f4d418a014807323c9b881b7c64"
     },
     {
       "path": "mods/create-1.20.1-0.5.1.f.jar",
@@ -90,6 +102,10 @@
       "hash": "71daa55fd88b6f181c51ec6892600415df591f64"
     },
     {
+      "path": "mods/framework-forge-1.20.1-0.6.27.jar",
+      "hash": "ec67a259a060c58571d7c2e7e12c8e6f9d7bd8e4"
+    },
+    {
       "path": "mods/ftb-chunks-forge-2001.2.5.jar",
       "hash": "4ec7468317f6ab8da35bae60b5a5254453ab3d3b"
     },
@@ -126,6 +142,10 @@
       "hash": "191b14e675f5e080bf0c045a955eda8b0e9300a7"
     },
     {
+      "path": "mods/immersive_aircraft-0.7.5+1.20.1-forge.jar",
+      "hash": "3f52b3764dcd097505974a1d8380972d3c54c343"
+    },
+    {
       "path": "mods/Jade-1.20.1-forge-11.8.0.jar",
       "hash": "bc7eca506af9e754b6283af15ba5a35532a96683"
     },
@@ -144,6 +164,10 @@
     {
       "path": "mods/lootr-1.20-0.7.31.78.jar",
       "hash": "0aaceae6c0343501a2f1b17687ef47610b11ff46"
+    },
+    {
+      "path": "mods/man_of_many_planes-0.0.3+1.20.1-forge.jar",
+      "hash": "8253440ea865d56a74dcafdfdf18c9a1ce7e1c02"
     },
     {
       "path": "mods/nethersdelight-1.20.1-4.0.jar",
@@ -202,20 +226,8 @@
       "hash": "bcdbdb2b82db28adef4b03e7893abb444da45d5c"
     },
     {
-      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
-      "hash": "0b76b081218570557e7b30ad0485cd7ef6da7be7"
-    },
-    {
-      "path": "resourcepacks/Quark Programmer Art.zip",
-      "hash": "2f4cadbbaeffec5f2811b34e053450a930626c15"
-    },
-    {
-      "path": "resourcepacks/SodiumTranslations.zip",
-      "hash": "5ec49380f9350d9c4a77fb1676ac637ab1981530"
-    },
-    {
-      "path": "resourcepacks/Xray_Ultimate_1.20_v4.2.4.zip",
-      "hash": "89823c386702409d36cd726a3865aedc492a76a7"
+      "path": "mods/zmusic-forge-1.20-3.2.0 (1).jar",
+      "hash": "0382c5cf6b72b004846941d004b56f77ca6ef6a7"
     },
     {
       "path": "servers.dat",
