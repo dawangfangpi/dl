@@ -1,7 +1,7 @@
 {
   "name": "create1.20.1",
   "author": "jdnjk@qq.com",
-  "version": "3.0",
+  "version": "2.6.2",
   "description": "",
   "fileApi": "https://dl.cdn.monday-ovo.top/create",
   "files": [
@@ -36,6 +36,10 @@
     {
       "path": "mods/architectury-9.2.14-forge.jar",
       "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+    },
+    {
+      "path": "mods/blockui-1.20.1-1.0.156-RELEASE.jar",
+      "hash": "96859ba9fd3b2226736d54ba9724eaa0758e3b3e"
     },
     {
       "path": "mods/botarium-forge-1.20.1-2.3.3.jar",
@@ -102,6 +106,10 @@
       "hash": "6355c9b3fbfa667d0498be9b425f8ed13d800a48"
     },
     {
+      "path": "mods/createutilities-0.3.0+1.20.1.jar",
+      "hash": "cd53635cf37bd8c72e890abc49d72057b7f82980"
+    },
+    {
       "path": "mods/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.10.jar",
       "hash": "bc7638b470a13091ff33e9b2d740393eca183cce"
     },
@@ -122,6 +130,10 @@
       "hash": "9f84c5e9760e08a7b9cf388d6c03f2a29e90ba32"
     },
     {
+      "path": "mods/domum_ornamentum-1.20.1-1.0.186-RELEASE-universal.jar",
+      "hash": "497979f9c1ae139fee5f6f32727a19785dd1e17d"
+    },
+    {
       "path": "mods/EnchantingInfuser-v8.0.2-1.20.1-Forge.jar",
       "hash": "151d05918f0adbb44ee3ddf486668cf1df25c48f"
     },
@@ -136,6 +148,10 @@
     {
       "path": "mods/FarmersDelight-1.20.1-1.2.4.jar",
       "hash": "71daa55fd88b6f181c51ec6892600415df591f64"
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge (1).jar",
+      "hash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
     },
     {
       "path": "mods/framework-forge-1.20.1-0.6.27.jar",
@@ -210,8 +226,16 @@
       "hash": "8253440ea865d56a74dcafdfdf18c9a1ce7e1c02"
     },
     {
+      "path": "mods/minecolonies-1.20.1-1.1.586-BETA.jar",
+      "hash": "2913e68eb93a49b85828c0ae226cd7d0417c8504"
+    },
+    {
       "path": "mods/modernfix-forge-5.17.0+mc1.20.1.jar",
       "hash": "9a6230d6f39353047771a458618b583d68d35d61"
+    },
+    {
+      "path": "mods/multipiston-1.20-1.2.43-RELEASE.jar",
+      "hash": "1fc108ebf5f9fe34cf0366c7b71adf230400a74c"
     },
     {
       "path": "mods/nethersdelight-1.20.1-4.0.jar",
@@ -254,6 +278,10 @@
       "hash": "ea5d343239fddf815ad44bee5a2d0dc2503f9cfb"
     },
     {
+      "path": "mods/structurize-1.20.1-1.0.736-BETA.jar",
+      "hash": "fa2c9954fb516a06acd96aaf906c847f8198150d"
+    },
+    {
       "path": "mods/tfmg-0.8.0b-1.20.1.jar",
       "hash": "5a9f706e27f2ca4a0f71710f22c4307bcf36d5d6"
     },
@@ -262,20 +290,16 @@
       "hash": "abcd33998c1baec7e429c705bdbdf9d3c9b377e7"
     },
     {
+      "path": "mods/towntalk-1.20.1-1.1.0.jar",
+      "hash": "03e6488b9e762888d1d187d5cf73a60695b63c52"
+    },
+    {
       "path": "mods/voicechat-forge-1.20.1-2.5.8.jar",
       "hash": "bcdbdb2b82db28adef4b03e7893abb444da45d5c"
     },
     {
       "path": "mods/zmusic-forge-1.20-3.2.0 (1).jar",
       "hash": "0382c5cf6b72b004846941d004b56f77ca6ef6a7"
-    },
-    {
-      "path": "servers.dat",
-      "hash": "198d9fafc7e6d7e1773bcff89fd5b0567ae609be"
-    },
-    {
-      "path": "servers.dat_old",
-      "hash": "198d9fafc7e6d7e1773bcff89fd5b0567ae609be"
     }
   ],
   "addons": [
