@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Monday-Minecraft</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Eaglercraft是真实的Minecraft 1.5.2，你可以在任何常规的网页浏览器中玩。包括学校用的chromebook，它适用于所有chromebook。你可以通过一个基于Bungeecord的自定义代理加入真实的Minecraft 1.5.2服务器。" />
+<meta name="keywords" content="minecraft, applet, chromebook, lax1dude, games, eaglercraft, eagler" />
+<meta name="author" content="LAX1DUDE" />
+<meta property="og:title" content="Eaglercraft" />
+<meta property="og:locale" content="zh-CN" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://media.discordapp.net/attachments/378764518081429506/932053915061587978/thumbnail2.png" />
+<meta property="og:description" content="Eaglercraft是真实的Minecraft 1.5.2，你可以在任何常规的网页浏览器中玩。包括学校用的chromebook，它适用于所有chromebook。你可以通过一个基于Bungeecord的自定义代理加入真实的Minecraft 1.5.2服务器。" />
+<!-- Change this: <meta property="og:url" content="https://g.eags.us/eaglercraft/" /> -->
+<script type="text/javascript" src="classes.js"></script>
+<script type="text/javascript">
+if(document.location.href.startsWith("file:")) {
+alert("你不应该在浏览器中'打开'这个文件。请将此文件夹上传到您的HTTP(s)服务器，并通过互联网访问它。这不是一个错误，请阅读文档");
+}else {
+window.addEventListener("load", function(){
+window.minecraftOpts = [
+"game_frame","assets.epk",
+"CgAACQAHc2VydmVycwoAAAABCAACaXAAIHdzKHMpOi8vIChhZGRyZXNzIGhlcmUpOihwb3J0KSAvCAAEbmFtZQAIdGVtcGxhdGUBAAtoaWRlQWRkcmVzcwEIAApmb3JjZWRNT1REABl0aGlzIGlzIG5vdCBhIHJlYWwgc2VydmVyAAA="
+];
+(function(){
+var q = window.location.search;
+if(typeof q === 'string' && q.startsWith("?")) {
+	q = new URLSearchParams(q);
+	var s = q.get("server");
+	if(s) window.minecraftOpts.push(s);
+}
+})();
+main();
+});}
+</script>
+</head>
+<body style="margin:0px;width:100vw;height:100vh;" id="game_frame">
+</body>
+</html>
